@@ -1,2 +1,26 @@
-A regex, which is brief for everyday expression, is a chain of characters that defines a selected seek pattern. whilst covered in code or search algorithms, regular expressions may be used to locate sure styles of characters within a string, or to locate and update a individual or series of characters inside a string. they're additionally often used to validate enter.
+Title (replace with your title)
+Introductory paragraph (replace this with your text)
 
+Summary
+Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+
+Table of Contents
+Anchors
+Quantifiers
+Grouping Constructs
+Bracket Expressions
+Character Classes
+The OR Operator
+Flags
+Character Escapes
+Regex Components
+Anchors
+Quantifiers
+Grouping Constructs
+Bracket Expressions
+Character Classes
+The OR Operator
+Flags
+Character Escapes
+Author
+A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
